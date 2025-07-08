@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> my first html code </title>
+</head>
+<body>
+<h1>html code</h1>
+<p> hii </p>
+</body>
+</html>
